@@ -12,8 +12,8 @@ url="http://office.chaoxing.com/front/web/apps/reservepc/item?itemId=9087&reserv
 session=requests.session()
 login_api = "https://passport2.chaoxing.com/api/login"
 params = {
-            "name": "17683833838",
-            "pwd": "wxl59420",
+            "name": "",
+            "pwd": "",
             "verify": "0",
             "schoolid":  ""
         }
