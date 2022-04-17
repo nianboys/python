@@ -52,7 +52,7 @@ class zsb:
         print(zsb_datas)
 
 if __name__ == '__main__':
-    run = zsb("17683833838","wxl5201314.")
+    run = zsb("","")
     run.screen_token()
     run.screen_data()
 
